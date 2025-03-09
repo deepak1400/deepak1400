@@ -15,11 +15,41 @@
 
 ---
 
-### 🛠 *Languages & Tools:*  
+### 🛠 Languages & Tools  
+
+#### *📌 Programming Languages*  
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square)  
-![Flask](https://img.shields.io/badge/Flask-Microframework-darkgrey?style=flat-square)  
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat-square)  
+![C](https://img.shields.io/badge/C-Programming-blue?style=flat-square)  
+
+#### *📊 Data & Databases*  
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=flat-square)  
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=flat-square)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-green?style=flat-square)  
+
+#### *📊 Data Science & Analytics*  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat-square)  
+![NumPy](https://img.shields.io/badge/NumPy-Mathematical%20Computing-lightgrey?style=flat-square)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat-square)  
+![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Visualization-blue?style=flat-square)  
+
+#### *📊 Business Intelligence (BI) & Visualization*  
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat-square)  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-green?style=flat-square)  
+
+#### *🌐 Web Development*  
+![HTML5](https://img.shields.io/badge/HTML5-Web%20Design-orange?style=flat-square)  
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=flat-square)  
+
+#### *🔧 Developer Tools & Version Control*  
+![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=flat-square)  
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=flat-square)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square)  
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=flat-square)  
+
+---
+
+### *Bonus: Add Your Operating System*  
+![Windows](https://img.shields.io/badge/Windows-OS-blue?style=flat-square)
 
 ---
 
