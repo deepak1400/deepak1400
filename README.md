@@ -31,3 +31,5 @@
 ⭐ *Check out my repositories:* [GitHub Profile](https://github.com/deepak1400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak1400&layout=compact)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak1400&theme=github)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepak1400&theme=dark)
