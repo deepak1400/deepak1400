@@ -15,41 +15,37 @@
 
 ---
 
-### 🛠 Languages & Tools  
+### 🛠 **Skills & Expertise**
 
-#### *📌 Programming Languages*  
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square)  
-![C](https://img.shields.io/badge/C-Programming-blue?style=flat-square)  
+#### **🔧 Programming Languages**
+- **Python**, **C**  
+  ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python&logoColor=white)  
+  ![C](https://img.shields.io/badge/C-Programming-blue?style=flat-square&logo=c&logoColor=white)  
 
-#### *📊 Data & Databases*  
-![SQL](https://img.shields.io/badge/SQL-Database-orange?style=flat-square)  
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=flat-square)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-green?style=flat-square)  
+#### **📊 Data Science & Analytics**
+- **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**  
+  ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat-square&logo=pandas&logoColor=white)  
+  ![NumPy](https://img.shields.io/badge/NumPy-Mathematical%20Computing-lightgrey?style=flat-square&logo=numpy&logoColor=white)  
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat-square&logo=matplotlib&logoColor=white)  
+  ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue?style=flat-square&logo=seaborn&logoColor=white)  
 
-#### *📊 Data Science & Analytics*  
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat-square)  
-![NumPy](https://img.shields.io/badge/NumPy-Mathematical%20Computing-lightgrey?style=flat-square)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat-square)  
-![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Visualization-blue?style=flat-square)  
+#### **💾 Databases**
+- **SQL**, **MySQL**, **PostgreSQL**  
+  ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=flat-square&logo=postgresql&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-green?style=flat-square&logo=postgresql&logoColor=white)  
 
-#### *📊 Business Intelligence (BI) & Visualization*  
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=flat-square)  
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-green?style=flat-square)  
+#### **🌐 Web Development**
+- **HTML5**, **CSS3**  
+  ![HTML5](https://img.shields.io/badge/HTML5-Web%20Design-orange?style=flat-square&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=flat-square&logo=css3&logoColor=white)  
 
-#### *🌐 Web Development*  
-![HTML5](https://img.shields.io/badge/HTML5-Web%20Design-orange?style=flat-square)  
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=flat-square)  
-
-#### *🔧 Developer Tools & Version Control*  
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=flat-square)  
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=flat-square)  
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square)  
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=flat-square)  
-
----
-
-### *Bonus: Add Your Operating System*  
-![Windows](https://img.shields.io/badge/Windows-OS-blue?style=flat-square)
+#### **⚙️ Tools & Version Control**
+- **Git**, **GitHub**, **Jupyter**, **VS Code**  
+  ![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=flat-square&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=flat-square&logo=github&logoColor=white)  
+  ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -58,8 +54,8 @@
 
 ---
 
-⭐ *Check out my repositories:* [GitHub Profile](https://github.com/deepak1400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak1400&layout=compact)
+⭐ *Check out my repositories:* [GitHub Profile](https://github.com/deepak1400)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak1400&layout=compact)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak1400&theme=github)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepak1400&theme=dark)
